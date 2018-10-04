@@ -1,5 +1,5 @@
 {
-    "name": "YBthebest/eventbrite-sdk-php",
+    "name": "ybthebest/eventbrite-sdk-php",
     "description": "PHP SDK for the Eventbrite API.",
     "require": {
     },
