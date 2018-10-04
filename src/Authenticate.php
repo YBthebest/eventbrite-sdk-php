@@ -1,5 +1,7 @@
 <?php
 
+namespace Eventbrite;
+
 define("EVENTBRITE_OAUTH_BASE", "https://www.eventbrite.com/oauth/");
 
 function createAuthorizeUrl($client_key)

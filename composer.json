@@ -8,12 +8,12 @@
     },
     "autoload": {
         "psr-4": {
-            "eventbrite\\": "src/"
+            "Eventbrite\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "eventbrite\\Tests\\": "tests/"
+            "Eventbrite\\Tests\\": "tests/"
         }
     }
 

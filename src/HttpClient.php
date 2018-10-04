@@ -1,5 +1,7 @@
 <?php
 
+namespace Eventbrite;
+
 require_once('AccessMethods.php');
 
 /**

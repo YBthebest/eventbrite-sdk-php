@@ -1,5 +1,7 @@
 <?php
 
+namespace Eventbrite;
+
 // Access methods.  This file could be auto-generated.
 
 class AccessMethods
