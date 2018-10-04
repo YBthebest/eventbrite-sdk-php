@@ -7,7 +7,7 @@
       "phpunit/phpunit": "~4.0"
     },
     "autoload": {
-        "psr-4": { "OneSignal\\": "src/" }
+        "psr-4": { "Eventbrite\\": "src/" }
     }
 
 }
