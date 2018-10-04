@@ -7,7 +7,7 @@ require_once('AccessMethods.php');
 /**
  * Http client used to perform requests on Eventbrite API.
  */
-class HttpClient extends AccessMethods
+class EventbriteHttpClient extends AccessMethods
 {
     protected $token;
     const EVENTBRITE_APIv3_BASE = "https://www.eventbriteapi.com/v3";
